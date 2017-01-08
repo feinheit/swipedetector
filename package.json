@@ -1,0 +1,19 @@
+{
+  "name": "swipedetector",
+  "version": "1.0.0",
+  "description": "Library for detecting swipe gestures from touch and mouse events",
+  "main": "swipedetector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matthiask/swipedetector.git"
+  },
+  "author": "Matthias Kestenholz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthiask/swipedetector/issues"
+  },
+  "homepage": "https://github.com/matthiask/swipedetector#readme"
+}
