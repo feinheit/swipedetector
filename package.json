@@ -4,6 +4,7 @@
   "description": "Library for detecting swipe gestures from touch and mouse events",
   "main": "dist/swipedetector.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --presets babel-preset-es2015 --out-dir dist",
     "version": "npm run build && git add -A dist"
   },
